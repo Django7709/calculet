@@ -6,3 +6,4 @@ public interface CalculatorService {
     Integer multiply(Integer num1, Integer num2);
     Integer divide(Integer num1, Integer num2);
 }
+
