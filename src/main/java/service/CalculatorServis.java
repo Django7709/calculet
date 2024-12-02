@@ -1,4 +1,4 @@
-package com.calculator.hw.service;
+package service;
 
 public interface CalculatorService {
     Integer sum(Integer num1, Integer num2);
@@ -6,3 +6,4 @@ public interface CalculatorService {
     Integer multiply(Integer num1, Integer num2);
     Integer divide(Integer num1, Integer num2);
 }
+
